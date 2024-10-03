@@ -1,7 +1,7 @@
 # USA BMI Calculator
 
 This is a responsive **BMI (Body Mass Index) Calculator** optimized for the **USA audience**, designed to calculate BMI based on weight in pounds and height in inches. The calculator provides users with their BMI value along with clear feedback on whether they are **Thin**, **Normal**, **Overweight**, or **Obese**.
-
+![BMI Calculator](images/bmi_calculator_homepage.png)
 ## Features:
 - User-friendly interface
 - Weight input in **pounds** and height input in **inches** (USA format)
